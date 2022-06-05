@@ -23,7 +23,7 @@ To use the script, download the project, change the variables the way you want i
 node index.js
 ```
 
-You will then find a .txt-file with the name given in the 'results' folder.
+You will then find a .txt-file with the name given in the 'results' folder containing the css for you to copy into your project.
 
 ## Disclaimer
 
