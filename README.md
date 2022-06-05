@@ -12,7 +12,7 @@ let degree = 45; // the degree of the animated linear gradient
 let background = "rgb(221, 221, 221)"; // any color as string
 let highlight = "rgb(255, 255, 255)"; // any color as string
 let width = 5; // "width" of the hightlight; just try it out or look into the code
-let steps = 100; // count of seperate steps to generate, 100 would mean the code calculates 101 seperate frames [0%, 1%, 2%, 3%, ... 99%, 100%]
+let steps = 100; // count of seperate steps to generate, defaults to 100 -> [0%, ... 100%]
 ```
 
 ## Run
