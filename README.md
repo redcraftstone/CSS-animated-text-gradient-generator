@@ -27,7 +27,7 @@ You will then find a .txt-file with the name given in the 'results' folder.
 
 ## Disclaimer
 
-The project is not input proof in any way, thus could break easily. I am not liable for anything you do with this project.
+The project is not input proof in any way, thus could break easily. I am not liable for any errors that occur.
 
 ## License
 
