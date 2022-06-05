@@ -1,10 +1,10 @@
 # CSS animated text gradient generator
 
-With the help of this small script you can easily generate a '@keyframes' snippet that gives your text an animated glow when used. Colors and other variables can be set by you. The code with save to an .txt file for you to copy from.
+With the help of this small script you can easily generate a CSS '@keyframes' snippet that gives your text an animated glow when used for your HTML projects. Colors and other variables can be set as seen below.
 
 ## Variables
 
-At the top of the index.js file you'll find multiple variables you can change how you want.
+At the top of the index.js file you'll find multiple variables you can change to whatever you want.
 
 ```javascript
 let filename = "result.txt"; // filename to output to
@@ -24,6 +24,10 @@ node index.js
 ```
 
 You will then find a .txt-file with the name given in the 'results' folder.
+
+## Disclaimer
+
+The project is not input proof in any way, thus could break easily. I am not liable for anything you do with this project.
 
 ## License
 
